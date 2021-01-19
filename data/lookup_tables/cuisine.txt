@@ -1,0 +1,6 @@
+chinese
+italian
+south indian
+north indian
+american
+mexican
